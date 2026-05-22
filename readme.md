@@ -141,6 +141,9 @@ http://localhost:8501
   <img src="https://raw.githubusercontent.com/chrisProj91/AI-BI-Copilot/main/assets/image.png" width="1000"/>
 </p>```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chrisProj91/AI-BI-Copilot/main/assets/image(1).png" width="1000" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.2);" />
+</p>
 ---
 
 # 🖥️ UI Modes
