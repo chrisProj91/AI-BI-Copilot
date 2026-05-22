@@ -137,7 +137,7 @@ http://localhost:8501
 # 📊 Example AI Dashboard JSON
 
 ```json
-![AI BI Copilot Dashboard](assets/image.png)
+![AI BI Copilot Dashboard](https://raw.githubusercontent.com/chrisProj91/AI-BI-Copilot/main/assets/image.png)
 ```
 
 ---
