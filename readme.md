@@ -137,25 +137,7 @@ http://localhost:8501
 # 📊 Example AI Dashboard JSON
 
 ```json
-{
-  "dashboard_title": "Sales Dashboard",
-  "charts": [
-    {
-      "chart_type": "bar",
-      "x": "category",
-      "y": "sales",
-      "aggregation": "sum",
-      "title": "Sales by Category"
-    },
-    {
-      "chart_type": "line",
-      "x": "month",
-      "y": "sales",
-      "aggregation": "sum",
-      "title": "Monthly Sales Trend"
-    }
-  ]
-}
+![AI BI Copilot Dashboard](assets/image.png)
 ```
 
 ---
