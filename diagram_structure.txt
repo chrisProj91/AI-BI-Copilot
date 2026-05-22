@@ -1,0 +1,43 @@
+ai-bi-engine/
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   │
+│   ├── ai/
+│   │   ├── prompts.py
+│   │   ├── dashboard_planner.py
+│   │   ├── insights_generator.py
+│   │   ├── report_generator.py
+│   │   └── chart_selector.py
+│   │
+│   ├── data/
+│   │   ├── loader.py
+│   │   ├── schema_detector.py
+│   │   ├── metric_engine.py
+│   │   └── transformations.py
+│   │
+│   ├── visualization/
+│   │   ├── chart_renderer.py
+│   │   └── dashboard_renderer.py
+│   │
+│   ├── utils/
+│   │   ├── validators.py
+│   │   ├── json_parser.py
+│   │   └── logging.py
+│   │
+│   └── ui/
+│       └── streamlit_app.py
+│
+├── datasets/
+│
+├── outputs/
+│   ├── charts/
+│   ├── reports/
+│   └── dashboards/
+│
+├── tests/
+│
+├── requirements.txt
+├── README.md
+└── .env
