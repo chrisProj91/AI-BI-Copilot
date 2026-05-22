@@ -134,11 +134,12 @@ http://localhost:8501
 
 ---
 
-# 📊 Example AI Dashboard JSON
+# 📊 Example AI Dashboard 
 
-```json
-![AI BI Copilot Dashboard](https://raw.githubusercontent.com/chrisProj91/AI-BI-Copilot/main/assets/image.png)
-```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chrisProj91/AI-BI-Copilot/main/assets/image.png" width="1000"/>
+</p>```
 
 ---
 
